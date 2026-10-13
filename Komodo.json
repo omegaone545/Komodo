@@ -1,0 +1,22 @@
+{
+  "id": "komodo_browser",
+  "name": "Komodo",
+  "tagline": "Navegación OLED ultrarrápida, privada y sin anuncios",
+  "description": "El navegador Android definitivo optimizado para paneles OLED. Disfruta de una experiencia web limpia gracias a su potente bloqueador nativo de publicidad y rastreadores con estadísticas en tiempo real. Protege tus pestañas más sensibles en la Bóveda de Modo Incógnito mediante clave numérica por PIN. Cuenta además con un reproductor multimedia flotante avanzado con rotación automática apaisada, escáner de códigos QR integrado de respuesta inmediata, traductor web en tiempo real sin necesidad de recargar la página y un menú contextual inteligente para agilizar tus búsquedas y descargas con un solo toque.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/LOGO.png",
+  "version": "1.0.0",
+  "downloads": "50K+",
+  "rating": 4.5,
+  "ratingCount": "8,900",
+  "classification": "+12 años",
+  "apkUrl": "",
+  "category": "Salud y fitness",
+  "isFeatured": false,
+  "screenshots": [
+    "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/primera.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/segunda.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/tercera.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/cuarta.jpg"   
+  ],
+ "whatsNew": ""
+}
